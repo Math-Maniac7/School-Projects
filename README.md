@@ -8,7 +8,7 @@ Howdy! Here is a look at some of the projects that I have done during my time at
 Using HTML and CSS, I developed my own personal website, highlighting some of my accomplishments thus far in college.
 A link to the website is as follows:
 
-https://people.tamu.edu/~ldu77/
+https://people.tamu.edu/~ldu77/CSCE331/
 
 ## Panda Express Website
 
